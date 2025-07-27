@@ -63,8 +63,8 @@ A comprehensive SQL project simulating a food delivery platform's backend analys
 
 ## 📬 Author
 **Sanyam**  
-📫 [LinkedIn](https://www.linkedin.com) | ✨ Contributions welcome
+📫 [LinkedIn](https://www.linkedin.com/in/sanyam-choudhary-a27b03223/) | ✨ Contributions welcome
 
 ---
 
-> 💡 Great for portfolio projects, BI case studies, and SQL practice!
+
