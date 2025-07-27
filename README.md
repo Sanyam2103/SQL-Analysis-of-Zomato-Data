@@ -38,7 +38,7 @@ A comprehensive SQL project simulating a food delivery platform's backend analys
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zomato-sql-analysis.git
+   git clone https://github.com/Sanyam2103/SQL-Analysis-of-Zomato-Data.git
    cd zomato-sql-analysis
    ```
 2. Open your MySQL client and execute:
